@@ -24,7 +24,7 @@ The mapping process followed these steps:
    - Processed the spatial mapping with this padding in place
    - Removed the padding after implementation of the spatial mapping was complete
    
-   <img src="Example/method_1.png" alt="Adding padding to GMI orbit edges" width="400"/>
+
 
 ## 3. A Sample
 

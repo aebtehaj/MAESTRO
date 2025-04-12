@@ -17,7 +17,7 @@ The mapping process followed these steps:
    - For each MRMS point, we identified the nearest GMI point
    - Then assigned all MRMS points to the GMI point that was nearest to them
    
-   <img src="Example/method_2.png" alt="Example of gathering MRMS points for a GMI grid" width="400"/>
+   <img src="Example/MRMS_point.png" alt="Example of gathering MRMS points for a GMI grid" width="400"/>
    
 3. To prevent gathering MRMS points outside of the GMI orbit:
    - Created fake padding at the edges of the GMI orbit
